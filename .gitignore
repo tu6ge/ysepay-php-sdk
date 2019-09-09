@@ -1,0 +1,12 @@
+.idea
+
+/vendor/
+/certs/
+.env
+docker-compose.yml
+composer.lock
+info.log
+demo.php
+index.php
+config.php
+return.php
